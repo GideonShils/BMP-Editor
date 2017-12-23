@@ -1,6 +1,13 @@
 # BMP-Editor
 Inverts or turns BMP photos grayscale using the command line
 
-Usage: ./bmp_edit -flag FILENAME
+Compile and run: 
 
-Flags: -invert, -grayscale
+```
+./bmp_edit -flag FILENAME
+```
+
+Flag options: 
+
+1. -invert
+2. -grayscale
